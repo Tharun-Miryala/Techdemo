@@ -1,0 +1,19 @@
+div{
+    border: 10px solid grey;
+    padding: 100px;
+    margin: 100px;
+}
+h2{
+    font-family: cursive;
+    color: brown;
+}
+h3{
+    font-family: cursive;
+    color: chocolate;
+}
+h1{
+    text-align: center;
+    color: crimson;
+    padding: 20px;
+    margin: 20px;
+}
